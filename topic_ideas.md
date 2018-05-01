@@ -31,6 +31,7 @@ If you have an idea for a talk, please add it to the bottom of this list in the 
 - [ ] Primer on Reinforcement Learning
 - [ ] Game playing AIs
 - [ ] AI in finance
+- [x] Word embeddings and sentence similarities (04/30/2018, Ted Troxell)
 - [ ] What is data science/How do I become a data scientist?
 
 (Note: to check the box in Github-flavored Markdown, you can type an x between the brackets at the beginning of the line)
